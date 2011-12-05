@@ -1,5 +1,5 @@
-Simple RSS Downloader
---------------------
+# Simple RSS Downloader #
+
 
 If you have an RSS feed and you want to be able to download the entries
 of the feed and pass them to an application to either download the feed
@@ -11,3 +11,7 @@ script for me.
 
 Also, I needed a very simple database so the application uses sqlite and
 I added the ActiveRecord ORM to help out with creating the database.
+
+## Copyright
+
+Copyright © 2011 Danish Khan. See [MIT-LICENSE](https://github.com/danishkhan/RSS-Downloader/blob/master/MIT-LICENSE) for details.
