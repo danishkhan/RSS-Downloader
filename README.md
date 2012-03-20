@@ -14,4 +14,4 @@ I added the ActiveRecord ORM to help out with creating the database.
 
 ## Copyright
 
-Copyright © 2011 Danish Khan. See [MIT-LICENSE](https://github.com/danishkhan/RSS-Downloader/blob/master/MIT-LICENSE) for details.
+Copyright © 2012 Danish Khan. See [MIT-LICENSE](https://github.com/danishkhan/RSS-Downloader/blob/master/MIT-LICENSE) for details.
